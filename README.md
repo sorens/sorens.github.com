@@ -2,4 +2,4 @@
 
 * :scroll: [CVs](https://github.com/sorens/cv)
 * :cookie: [Recipes](https://github.com/sorens/recipes)
-* :chart_with_downwards_trend: [orens.com](http://www.orens.com)
+* :chart_with_downwards_trend: [orens.com](https://orens.com)
